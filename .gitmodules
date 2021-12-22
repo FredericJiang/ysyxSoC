@@ -3,7 +3,7 @@
 	url = git@github.com:ucb-bar/berkeley-hardfloat.git
 [submodule "torture"]
 	path = torture
-	url = git@github.com:ucb-bar/riscv-torture.git
+	url = https://gitee.com/FredericJiang/riscv-torture.git
 [submodule "api-config-chipsalliance"]
 	path = api-config-chipsalliance
 	url = git@github.com:chipsalliance/api-config-chipsalliance.git
