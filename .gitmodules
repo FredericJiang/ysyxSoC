@@ -1,9 +1,9 @@
 [submodule "hardfloat"]
 	path = hardfloat
-	url = git@github.com:ucb-bar/berkeley-hardfloat.git
+	url = https://gitee.com/FredericJiang/berkeley-hardfloat.git
 [submodule "torture"]
 	path = torture
 	url = https://gitee.com/FredericJiang/riscv-torture.git
 [submodule "api-config-chipsalliance"]
 	path = api-config-chipsalliance
-	url = git@github.com:chipsalliance/api-config-chipsalliance.git
+	url = https://gitee.com/FredericJiang/api-config-chipsalliance.git
